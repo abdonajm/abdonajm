@@ -1,9 +1,11 @@
 
-### Hi there 👋, Abdellah nejmeddine
-#### developpement
+# Hi there 👋, I'm Abdellah nejmeddine
+## developpement
 ![developpement](https://github.com/abdonajm/abdonajm/blob/main/abstract_waves_banner_design_1809.jpg)
 
 I'm Abdellah from Morocco, and i do a sofwtware and web application also mobile, i really enjoy leaning languages and frameworks like spring, and React also i'm trying to improve at mobile application and design UI,UX 
+
+### Skills and Experience 
 
 Skills: PHP / C#/ JS / HTML / CSS /JAVA
 
