@@ -1,6 +1,18 @@
-### Hi there 👋
 
-I'm Abdellah from Morocco, and i do a sofwtware and web application also mobile, i really enjoy leaning languages and frameworks like spring, and React also i'm trying to improve at mobile application and design UI,UX  You can check my linkedin at https://www.linkedin.com/in/abdellahnejmeddine/ .
+### Hi there 👋, Abdellah nejmeddine
+#### developpement
+![developpement](https://static.vecteezy.com/ti/vecteur-libre/p1/829811-abstrait-bleu-vagues-banniere-gratuit-vectoriel.jpg)
+
+I'm Abdellah from Morocco, and i do a sofwtware and web application also mobile, i really enjoy leaning languages and frameworks like spring, and React also i'm trying to improve at mobile application and design UI,UX 
+
+Skills: PHP / C#/ JS / HTML / CSS /JAVA
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdonajm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdellahnejmeddine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Zdayla)  
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdonajm)](https://github.com/anuraghazra/github-readme-stats)
 
